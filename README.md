@@ -1,1 +1,1 @@
-# C-C-React-course
+# Files of the course "React based on class components"
