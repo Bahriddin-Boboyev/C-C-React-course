@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+.container {
+  width: 1200px;
+  height: auto;
+  margin: 0 auto;
+}
+p {
+  margin: 0;
+}
+img {
+  width: 200px;
+  height: 250px;
+  border-radius: 5%;
+}
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.cards {
+  margin: 0 auto;
+  text-align: center;
+  width: 300px;
+  height: 400px;
+  background-color: azure;
+  padding-left: 30px;
+  margin-bottom: 30px;
+  border-radius: 10%;
+  cursor: pointer;
+}
+.top > h2 {
+  padding-top: 15px;
+  color: black;
+  text-align: center;
+}
+.bottom {
+  padding-top: 15px;
+}
+.bottom > p {
+  color: black;
+  text-align: start;
+  font-style: italic;
+}
